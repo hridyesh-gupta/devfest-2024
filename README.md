@@ -49,9 +49,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
     - `firebase deploy`
 
 ## Developed by
-1. [Vrijraj Singh](https://vrijraj.xyz/)
-2. [Shivam Singh](https://shivam.live/)
-3. [Sandali Singh](https://sandali.xyz/)
+1. [Hridyesh Gupta](https://hridyesh.com/)
+2. [Agamya Samuel](https://agamya.dev/)
 
 ## Technology Stack
 
